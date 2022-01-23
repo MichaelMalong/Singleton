@@ -1,0 +1,17 @@
+C:\Users\Mike\source\repos\YTPI Inventory\YTPI Inventory\obj\Debug\net6.0-windows\YTPI Inventory.csproj.AssemblyReference.cache
+C:\Users\Mike\source\repos\YTPI Inventory\YTPI Inventory\obj\Debug\net6.0-windows\YTPI_Inventory.Form1.resources
+C:\Users\Mike\source\repos\YTPI Inventory\YTPI Inventory\obj\Debug\net6.0-windows\YTPI Inventory.csproj.GenerateResource.cache
+C:\Users\Mike\source\repos\YTPI Inventory\YTPI Inventory\obj\Debug\net6.0-windows\YTPI Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\source\repos\YTPI Inventory\YTPI Inventory\obj\Debug\net6.0-windows\YTPI Inventory.AssemblyInfoInputs.cache
+C:\Users\Mike\source\repos\YTPI Inventory\YTPI Inventory\obj\Debug\net6.0-windows\YTPI Inventory.AssemblyInfo.cs
+C:\Users\Mike\source\repos\YTPI Inventory\YTPI Inventory\obj\Debug\net6.0-windows\YTPI Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Mike\source\repos\YTPI Inventory\YTPI Inventory\bin\Debug\net6.0-windows\YTPI Inventory.exe
+C:\Users\Mike\source\repos\YTPI Inventory\YTPI Inventory\bin\Debug\net6.0-windows\YTPI Inventory.deps.json
+C:\Users\Mike\source\repos\YTPI Inventory\YTPI Inventory\bin\Debug\net6.0-windows\YTPI Inventory.runtimeconfig.json
+C:\Users\Mike\source\repos\YTPI Inventory\YTPI Inventory\bin\Debug\net6.0-windows\YTPI Inventory.dll
+C:\Users\Mike\source\repos\YTPI Inventory\YTPI Inventory\bin\Debug\net6.0-windows\ref\YTPI Inventory.dll
+C:\Users\Mike\source\repos\YTPI Inventory\YTPI Inventory\bin\Debug\net6.0-windows\YTPI Inventory.pdb
+C:\Users\Mike\source\repos\YTPI Inventory\YTPI Inventory\obj\Debug\net6.0-windows\YTPI Inventory.dll
+C:\Users\Mike\source\repos\YTPI Inventory\YTPI Inventory\obj\Debug\net6.0-windows\ref\YTPI Inventory.dll
+C:\Users\Mike\source\repos\YTPI Inventory\YTPI Inventory\obj\Debug\net6.0-windows\YTPI Inventory.pdb
+C:\Users\Mike\source\repos\YTPI Inventory\YTPI Inventory\obj\Debug\net6.0-windows\YTPI Inventory.genruntimeconfig.cache
